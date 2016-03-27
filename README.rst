@@ -2,6 +2,8 @@
 An example of Zope Component Architecture
 =========================================
 
+This project aim to implement DIP (the Dependency Inversion Principle).
+
 .. code-block:: console
 
    $ cd /path/to/ex-zca
